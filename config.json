@@ -1,0 +1,20 @@
+{
+  "params": {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/blogger's hub",
+    "prod_uri": "mysql://root:@localhost/blogger's hub",
+    "blog_name": "Bloggers's Hub",
+    "gmail-user": "piyushgpt853@gmail.com",
+    "gmail-pass": "iamgenius",
+    "about_text": "Hi i am Piyush Gupta",
+    "no_of_posts": 2,
+    "login_image": "bh.jpg",
+    "admin_user": "piyush",
+    "admin_password": "iamgenius",
+    "upload_location": "C:\\Users\\hp\\PycharmProjects\\flastut"
+  }
+}
+
+
+
+
